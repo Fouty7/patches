@@ -1,0 +1,25 @@
+From f073bcdc43b8f56d397c2d4385483454ab304819 Mon Sep 17 00:00:00 2001
+From: Aminu Ndakun <amin4712@gmail.com>
+Date: Wed, 25 Jan 2023 21:27:21 +0100
+Subject: [PATCH v1 0/1] Aminu Ndakun -- Assignment 0 submission
+
+I believe after dealing with some few unexpected errors, my success rate
+should be 100%
+
+The materials were helpful, and my fellow mentees were always willing to
+brainstorm
+
+Also as updated in A0 output of "uname -a" is now appended to aminu_ndakun.md
+
+Signed-off-by: Aminu Ndakun <amin4712@gmail.com>
+
+Aminu Ndakun (1):
+  A0 Final Submission: Creats a File aminu_ndakun.md with fun facts
+
+ A0/aminu_ndakun.md | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 A0/aminu_ndakun.md
+
+-- 
+2.39.1
+
